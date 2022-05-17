@@ -1,16 +1,11 @@
-# box2d_collision_rpg_style
+# 本期是flutter教學系列的第二十二期
 
-A new Flutter project.
+# 教學內容包括：
+- ContactCallback（碰撞處理）
+- 武器發射
+-  事件處理 events handling- subscriber and publisher pattern
+# 教學預期：學員能夠用subscriber和publisher高效優雅的處理events
+視頻地址：https://youtu.be/v6igCsMgdZ4 <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![遊戲截屏](https://github.com/imperativelyfunctional/flame-engine-particle-effects/blob/main/demo.gif)
